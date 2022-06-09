@@ -18,12 +18,13 @@ Over 300,000 square feet of space is used for Web3Skills to create events in the
 
 No username or password is required in Voxels. You can tour the metaverse world completely anonymously. If you would like to participate and play for prizes/rewards you will need a Web3 account connected to Voxels. There does not need to be any tokens or money in the account to play the standard games but the account will need to be connected to Voxels. 
 
-This is done by signing an cryptographic message only you could sign. You can learn more [here]((https://metamask.io/))  <img src="https://github.com/tenfinney/event-docs/blob/main/sign-in.png" width="100" height="100">
+This is done by signing an cryptographic message only you could sign. You can learn more [here]((https://metamask.io/))  <img src="https://github.com/tenfinney/event-docs/blob/main/sign-in.png" width="200">
 
 
 ## Game Tip: 
-<img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="100" height="100"> 
-This image <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="100" height="100">  links you back to the Web3Skills Hub where you will be able to fast travel to any location use in the quests and events. Use it often if you need to do back and start your quest again. <img src="https://github.com/tenfinney/event-docs/blob/main/citywalk-royal0-tr.png" width="100" height="100"> <img src="https://github.com/tenfinney/event-docs/blob/main/024.png" width="100" height="100"> Citywalk 24 is where all the quest games start. 
+<img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="600"> 
+
+This image <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="50">  links you back to the Web3Skills Hub where you will be able to fast travel to any location use in the quests and events. Use it often if you need to do back and start your quest again. <img src="https://github.com/tenfinney/event-docs/blob/main/citywalk-royal0-tr.png" width="100" height="100"> <img src="https://github.com/tenfinney/event-docs/blob/main/024.png" width="100" height="100"> Citywalk 24 is where all the quest games start. 
 
 You can find it on the directory <img src="https://github.com/tenfinney/event-docs/blob/main/Web3Skills-hub-directory.png" width="100" height="100"> in the [Web3Skills Hub]((https://www.voxels.com/play?coords=SE@263E,6S)) parcel.
 
