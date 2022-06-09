@@ -3,6 +3,11 @@
 # MetaFest2 Games in Voxels
 ###### *hosted by Scott Stevenson, Web3 Legal Engineering*
 
+
+<img src="https://github.com/tenfinney/event-docs/blob/main/mf2-logo-1000w.png" width="2300">
+
+
+
 # Over $1000 USD in Prizes.
 Some in MATIC and some in wrapped Ether on the Polygon blockchain. 
 
@@ -11,6 +16,10 @@ Each prize ranges from around $20 to $200 depending on the game played.
 
 ## 300,000 square feet of displays
 Over 300,000 square feet of space is used for Web3Skills to create events in the Voxels metaverse for demonstrations and gated meeting spaces.
+
+
+### Access Token for MetaFest2 
+<img src="https://github.com/tenfinney/event-docs/blob/main/mf2-web3skills-access-1200w.png" width="300">
 
 -------------------
 
@@ -22,7 +31,6 @@ This is done by signing an cryptographic message only you could sign. You can le
 
 
 ## Game Tip: 
-<img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="600"> 
 
 This image <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="50">  links you back to the Web3Skills Hub where you will be able to fast travel to any location use in the quests and events. Use it often if you need to do back and start your quest again. <img src="https://github.com/tenfinney/event-docs/blob/main/citywalk-royal0-tr.png" height="50"> <img src="https://github.com/tenfinney/event-docs/blob/main/024.png" height="50"> Citywalk 24 is where all the quest games start. 
 
@@ -34,14 +42,12 @@ You can find it on the directory <img src="https://github.com/tenfinney/event-do
 In Voxels, if you want to turn off the sound right click your browser tab and Mute the site.
 <img src="https://github.com/tenfinney/event-docs/blob/main/audio-mixer-icon-voxels.png" width="50">
 
-If you want to adjust the audio, sounds, and chat first select the audio mixer and then you will use the audio mixer <img src="https://bafybeiflnjcdsxepvpkvsmqk47ooe5kf7fbrw76rosahmapd3o6xvm7kjq.ipfs.infura-ipfs.io/" width="100" height="100"> to select the right balance for your Metaverse experience.
+If you want to adjust the audio, sounds, and chat first select the audio mixer and then you will use the audio mixer <img src="https://bafybeiflnjcdsxepvpkvsmqk47ooe5kf7fbrw76rosahmapd3o6xvm7kjq.ipfs.infura-ipfs.io/" width="50" height="50"> to select the right balance for your Metaverse experience.
 
 
-Clicking this symbol <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="100" height="100">  takes you back to a Hub where you can regain your bearings and fast-travel back to important waypoints to finish your quest or hunt.
+Clicking this symbol <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="50" height="50">  takes you back to a Hub where you can regain your bearings and fast-travel back to important waypoints to finish your quest or hunt.
 
-<img src="https://bafybeifbczrk25b3mvcyvq7t4pl6ndwd76ucbowfkv5swyt62ix2guownq.ipfs.infura-ipfs.io/" width="100" height="100">
-
-<img src="https://bafybeiflnjcdsxepvpkvsmqk47ooe5kf7fbrw76rosahmapd3o6xvm7kjq.ipfs.infura-ipfs.io/" width="100" height="100">
+<img src="https://bafybeiflnjcdsxepvpkvsmqk47ooe5kf7fbrw76rosahmapd3o6xvm7kjq.ipfs.infura-ipfs.io/" width="200">
 
 ### Movement
 You maneuver in Voxels using your keyboard and mouse. Use arrow keys or WASD for the direction you want to travel. Pressing "F" key toggles "fly" mode where you defy the laws of gravity. It also allows you to swim to the surface if you fall into the water.  
@@ -59,7 +65,7 @@ Sometimes the page needs time to load. If you think your computer is working too
 There Lettered Numbered walls are located through the event to help players orient themselves for convenience. The numbers and letters on the walls allow you to find the clues easily. Write your clues down in order as they appear and as they are called for in the clues section below. 
 
 ### Swim if you fall in.
-If you fall in to the water and need to get out press the F key to fly in pointing the direction you want to travel with the arrow keys. If you find yourself trapped under the parcels, look up for a separation between the large squares. Those gaps represent the streets and you will be able to fly out of the uderwater/underground. It may take a few tries and if you get frustrated you can always start again at the origin at [https://voxels.com]((https://voxels.com)) and make you wayback to the [Hub]((https://www.cryptovoxels.com/play?coords=SE@261E,3S)) or look for one of these <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="100" height="100"> to fast-travel to [Web3Skills Hub]((https://www.voxels.com/play?coords=SE@263E,6S)) 
+If you fall in to the water and need to get out press the F key to fly in pointing the direction you want to travel with the arrow keys. If you find yourself trapped under the parcels, look up for a separation between the large squares. Those gaps represent the streets and you will be able to fly out of the uderwater/underground. It may take a few tries and if you get frustrated you can always start again at the origin at [https://voxels.com]((https://voxels.com)) and make you wayback to the [Hub]((https://www.cryptovoxels.com/play?coords=SE@261E,3S)) or look for one of these <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" height="40"> to fast-travel to [Web3Skills Hub]((https://www.voxels.com/play?coords=SE@263E,6S)) 
 
 ### "H" displays the menu.
 There is a lot you can do in Voxels. Press press the "H" key for a whole menu of choices. Press the "G" key if you are adventurous and want to interact with other players.
@@ -70,7 +76,7 @@ There is a lot you can do in Voxels. Press press the "H" key for a whole menu of
 ### Token Gated Parcels - Access Token Required
 Players will not be able to enter gated parcel without an Access Token being in your connected Web3 account. These Access Tokens are easy to get and they follow the 1155 standard on the Polygon EVM blockchain in token-speak. The Access Token are minted on the Polygon Blockchain and secured by the Ethereum Virtual Machine. The Ethereum Virtual Machine (EVM) is a protocol that runs the Ethereum public blockchain other blockchains like Polygon to processes transactions.
 
-There are two additional games for the Web3Skills event in MetaFest2. These two games are in-world **Treasure Hunts** where players will relocate in different parts of the Voxels world and find clues that will be entered into a final game form. **Treasure Clues 1-4** are part of the walk from the world-center in Origin City are common for both treasure hunts (there is not a CityWalk fast travel location to those of Joy and Scarlett Factory). All remainng treasure hunt clues are located in a Citywalk parcel that can be fast-travelled to from the [Web3Skills Hub](https://www.voxels.com/play?coords=SE@263E,6S) <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="100" height="100"> .  
+There are two additional games for the Web3Skills event in MetaFest2. These two games are in-world **Treasure Hunts** where players will relocate in different parts of the Voxels world and find clues that will be entered into a final game form. **Treasure Clues 1-4** are part of the walk from the world-center in Origin City are common for both treasure hunts (there is not a CityWalk fast travel location to those of Joy and Scarlett Factory). All remainng treasure hunt clues are located in a Citywalk parcel that can be fast-travelled to from the [Web3Skills Hub](https://www.voxels.com/play?coords=SE@263E,6S) <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" height="50"> .  
 
 The first people to correctly submit the **Treasure Hunt** answers from the clues and submit them in the proper order will win and automatically get access to the account's rewards. 
 The first person who decodes all the **Quest** clues and assembles the private key for a Web3 account will win and automatically get access to the account's rewards. 
@@ -91,7 +97,7 @@ Connect your Web3 account (optional)
 Travel east for 10 blocks until you see Joy's parcel. Travel south for 6 blocks until the end of the road.
 
 ## Step 3: 
-Youu are now at the **Main Game Center** 
+You are now at the **Main Game Center** 
 Click the form on the right of the grassy entrance just behind the trees in the cover of the parcel.
 
 Enter your Web3 address and the answers to the first four questions.  If you are right you will recieve a players NFT that unlocks special quests.  The token is not required to play certain games but it will prevent non-holders to access places and content that may reveal additional rewards.
@@ -159,13 +165,13 @@ All addional participants that complete the quest will receive a digital token t
 
 Select your colored lane. Each lane has it's own reward and participants are not competing agains the other lanes but only all the participants running in the same colored lanes. Continue through your colored lane picking up the clues/seed words until the tour is over and you are back at Main Game Center at Citywalk 24 where you will be facing another journey. Take your time and collect the clues/seed words that will be used to assemble a Web3 address. The rewards can be swept by the first player who successfully assembles the see phrase and unlocks the reward in the account.
 
-##### For Access Token Holders
+#### For Access Token Holders
 If you are holding the MetaFest2 game token you will be able to enter the first floor and collect the clue word on the first floor, then return to the colored lanes in the front of the parcel. 
 Select any of your desired lanes and collect the clues (if any) on floors 2, 3 and 4. On each successive press of the MetaFest2 logo will finish with you on the top floor of the building. Click the moving vending machine game and you will be transported to the next location.
 
 At the next location you will be able to enter another gated parcel where you will see some of the unternal working of MataGame and collect more clues and seed word used towards the rewards.  Once you have collected your clues click the same colored button from the lane you just came from on Miami island (2 Utopia).  
 
-##### Non-Token Holders Hunt
+#### Non-Token Holders Hunt
 
 Once you are faced with a gated parcel at 2 Utopia on Miami, look around the parcel to get your essential clues to assemble the private key.
 
@@ -188,9 +194,9 @@ If you hold the Access Token you will be able to enter the Web3Skills Smartlaw K
 Now your are facing two vending machines. The vending machine to the left allows you explore a digital asset that can be used to enter a Web3Skills SmartLaw training program. The vending machine to the right transports you to the roof of this parcel.  Click the big red circular icon and you will be transported to the final task of this quest game.
 
 Now all the participants (with or without an Access Token) will be back at the Main Game Center parcel on 25 Citywalk. Enter your answer into the Web3Skills Treasure Hunt 2022 form at the entrance to the parcel.  
-<img src="https://github.com/tenfinney/event-docs/blob/main/treasure-hunt-form.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/treasure-hunt-form.png" width="400">
 
-Stay tuned for the missing clues on June 22nd to be the first to unlock the account and sweep the rewards into your own account.  Any participants that collect all the clues/seed words with or without the game tokens will receive a participation reward and qualify for credits in the Web3Skills SmartLaw training program.
+Stay tuned for the missing clues on June 22nd to be the first to unlock the account and sweep the rewards into your own account. Any participants that collect all the clues/seed words with or without the game tokens will receive a participation reward and qualify for credits in the Web3Skills SmartLaw training program.
 
 ---------------- 
 
@@ -214,9 +220,9 @@ There are thirty (30) clues and questions that must be answered to complete the 
 
 #### Clue in Joy's Parcel
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/joy-SW@196E-blank.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/joy-SW@196E.png" width="800">
 
-Go to [Voxels.com]((https://voxels.com)) and travel 10 block to the east until you see the yellow Joy parcel. <img src="https://github.com/tenfinney/event-docs/blob/main/joy-SW@196E-blank.png" width="100" height="100">
+Go to [Voxels.com]((https://voxels.com)) and travel 10 block to the east until you see the yellow Joy parcel. <img src="https://github.com/tenfinney/event-docs/blob/main/joy-SW@196E-blank.png" width="300" >
 
 ##### Clue Question 1
 Who is the message for in Joy's parcel? 
@@ -226,11 +232,11 @@ Fill in the blank: **"Hi ________, try again =)"**
 
 Travel south until you reach the Scarlett Factory it's the building all in red.
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clue-scarlett-SW@200E-36S.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clue-scarlett-SW@200E-36S.png" width="800">
 
 Find this image in the Scarlett Factory? 
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q02.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q02.png" width="300">
 
 ##### Clue Question 2
 What is the second word of the title of this digital art piece? 
@@ -245,34 +251,35 @@ Who is the current owner of the digital art piece?
 ### Clues in Citywalk 11 - Web3 Events Center
 Now select the CityWalk 11 banner on the directory and you will fast travel to the Web3 Event Center hosting Metafest2. 
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-cw11.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-cw11.png" width="1000">
 
 Navigate to the second floor by using the up arrows or flying to the entrance location on Alco Gardens. 
 
 Find the art located at position D47 fill in the blank:  
 
 ##### Clue Question 5:
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t2-001 2.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t2-001 2.png" width="400">
 **" _________ Girl"**
 
 ##### Clue Question 6:
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t2-cw11-002.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t2-cw11-002.png" width="1000">
 Now look for position D21 and fill in the blank: **" _________ @MerkeSeeds"**
 
 ##### Clue Question 7:
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t2-q7.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t2-q7.png" width="1000">
 
 Now look for panel D48 and D49 and fill in the blank: 
 **"Two ________ of Alice"** 
 
 ##### Clue Question 8:
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t2-cw11-003.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t2-cw11-003.png" width="800">
 
 Now go to panel D60 and fill in the blank: 
 **"The ________ fractal sets.""**
 
 #### This treasure hunt continues in Citywalk 1.
-Now select the CityWalk 1 banner on the directory and you will fast travel to the Web3 Event Center hosting Metafest2. <img src="https://github.com/tenfinney/event-docs/blob/main/clues-t1-q8.png" width="100" height="100">
+Now select the CityWalk 1 banner on the directory and you will fast travel to the Web3 Event Center hosting Metafest2. 
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-t1-q8.png" width="800">
 
 ### Clues along the Players Journey 
 
@@ -389,7 +396,8 @@ You will place your answers in the form located at location A86 on the Player's 
 Make sure to include your Web3 address so you can receive your commemorative token and hopefully the first, second, or third place prize.
 
 Thank you for participating in manifest to sponsored by Web3Skills SmartLaw.
-<img src="https://github.com/tenfinney/event-docs/blob/main/smartlaw-web3skills-white.png" width="100" height="100">
+
+<img src="https://github.com/tenfinney/event-docs/blob/main/smartlaw-web3skills-white.png" width="200">
 
 
 ------------------
@@ -398,13 +406,11 @@ Thank you for participating in manifest to sponsored by Web3Skills SmartLaw.
 ### Clues Hunt for Treasure 2
 Access Token Required for all clues. You can solves for some of the clues but not all of them. Consider requesting an token during MEtaFest2 or focus on Treasure Hunt 1 above that does not require an Access Token.
  
-Go to [Voxels.com]((https://voxels.com))
-
-Go east for 10 block until you see this <img src="https://github.com/tenfinney/event-docs/blob/main/joy-SW@196E.png" width="100" height="100"> parcel
-
 #### Clue in Joy's Parcel
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/joy-SW@196E-blank.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/joy-SW@196E.png" width="800">
+
+Go to [Voxels.com]((https://voxels.com)) and travel 10 block to the east until you see the yellow Joy parcel. <img src="https://github.com/tenfinney/event-docs/blob/main/joy-SW@196E-blank.png" width="300" >
 
 ##### Clue Question 1
 Who is the message for in Joy's parcel? 
@@ -414,26 +420,26 @@ Fill in the blank: **"Hi ________, try again =)"**
 
 Travel south until you reach the Scarlett Factory it's the building all in red.
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clue-scarlett-SW@200E-36S.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clue-scarlett-SW@200E-36S.png" width="800">
 
 Find this image in the Scarlett Factory? 
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q02.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q02.png" width="400">
 
 ##### Clue Question 2
-What is the second word of the title of this digital art piece? 
-Fill in the blank: 
-**"The Old ___________"** 
+What is the third word of the title of this digital art piece? 
+Fill in the blank: **"The Old _________ "** 
 
 ##### Clue Question 3 
-Who made the winning bid? _________
+Who made the winning bid? 
 
 ##### Clue Question 4
-Who is the current owner of the digital art piece? ________
+Who is the current owner of the digital art piece?
+
 
 #### Clue in Citywalk 42
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-citywalk-42.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-citywalk-42.png" width="1000">
 
 Go to Citywalk 42 from the Web3Skills Hub or by starting from the MetaGame Roles Quest. 
 
@@ -461,7 +467,7 @@ Clue 7 is: _________
 
 You will need to watch the three videos in order to answer the questions. 
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-videos.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-videos.png" width="1000">
 
 ##### Clue Question 8
 In the first video what is the type of food truck is running along the track? 
@@ -476,7 +482,8 @@ What is the very last word in the video.  Fill in the blank:
 Find the address of the Eye Worship Garden. Fill in thie blank **"3 _____ Road"** 1m56s in on the video.
 
 Find the Self.id profile on the west wall. 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-profile.png" width="100" height="100">
+
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-profile.png" width="300">
 
 ##### Clue Question 11. 
 Who's profile is shown from the self.ID pages on the southern wall?  Fill in the blank. **"Tenfinney ( _________)"**
@@ -484,11 +491,11 @@ Who's profile is shown from the self.ID pages on the southern wall?  Fill in the
 ### Clues in Citywalk 27
 Go to Citywalk 27 from the Web3Skills Hub or by starting from Main Game Center (Citywalk 24) and traveling east into Junkyard. From the Whaleshark Gallery at Citywalk 27: 
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-citywalk-27a.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-citywalk-27a.png" width="1000">
 
 Look for two pieces of art.
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q12.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q12.png" width="600">
 
 ##### Clue Question 12:
 Look for this piece of art:
@@ -510,21 +517,21 @@ In Citywalk 36 you can explore the access tokens and smart-contracts used for th
 
 The first clue is inside the gated parcel on the third floor just in front of the microphone stand. 
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q14.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q14.png" width="400">
 
 ##### Clue Question 14: 
 The clue in the platform is: __________
 
 Locate the key behind the microphone stand and select it. Now take your chances by escaping the elevator shaft.  If you are successful you will be looking at a MetaFest2 to logo and there will be a clue just down below it. 
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q15-.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q15-.png" width="300">
 
 ##### Clue Question 15: 
 The clue on the wall is: ________________
 
 Reposition until you are standing in front of the vending machine on the right and look for the clue in it.
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q16.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clue-q16.png" width="5000">
 
 ##### Clue Question 16
 The clue in the vending machine is: ______________
@@ -543,7 +550,8 @@ You will place your answers in the form located at at the entrance of Citywalk 2
 Make sure to include your Web3 address so you can receive your commemorative token and hopefully the first, second, or third place prize.
 
 Thank you for participating in manifest to sponsored by Web3Skills SmartLaw.
-<img src="https://github.com/tenfinney/event-docs/blob/main/smartlaw-web3skills-white.png" width="100" height="100">
+
+<img src="https://github.com/tenfinney/event-docs/blob/main/smartlaw-web3skills-white.png" width="200" height="100">
 
 ------------------ 
 
