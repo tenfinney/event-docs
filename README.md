@@ -31,16 +31,17 @@ You can find it on the directory <img src="https://github.com/tenfinney/event-do
 ## Before you start.
 
 In Voxels, if you want to turn off the sound right click your browser tab and Mute the site.
-<img src="https://github.com/tenfinney/event-docs/blob/main/audio-mixer-icon-voxels 1.png" width="50" >
-  If you want to adjust the audio, sounds, and chat first select the audio mixer and then you will use the audio mixer <img src="https://github.com/tenfinney/event-docs/blob/main/audio-mixer-choices-voxels 1.png|200]] to select the right balance for your Metaverse experience.
+<img src="https://github.com/tenfinney/event-docs/blob/main/audio-mixer-icon-voxels.png" width="50">
 
-[Voxels Mixer Panel|200]((https://bafybeiflnjcdsxepvpkvsmqk47ooe5kf7fbrw76rosahmapd3o6xvm7kjq.ipfs.infura-ipfs.io/))
+If you want to adjust the audio, sounds, and chat first select the audio mixer and then you will use the audio mixer <img src="https://github.com/tenfinney/event-docs/blob/main/audio-mixer-choices-voxels." width="100" height="100"> to select the right balance for your Metaverse experience.
+
+[Voxels Mixer Panel|200]((https://bafybeiflnjcdsxepvpkvsmqk47ooe5kf7fbrw76rosahmapd3o6xvm7kjq.ipfs.infura-ipfs.io/" width="100" height="100">
 
 Clicking this symbol <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="100" height="100">  takes you back to a Hub where you can regain your bearings and fast-travel back to important waypoints to finish your quest or hunt.
 
-![Audio Mixer Icon|100x100](https://bafybeifbczrk25b3mvcyvq7t4pl6ndwd76ucbowfkv5swyt62ix2guownq.ipfs.infura-ipfs.io/)
+<img src="https://bafybeifbczrk25b3mvcyvq7t4pl6ndwd76ucbowfkv5swyt62ix2guownq.ipfs.infura-ipfs.io/" width="100" height="100">
 
-![Audio Mixer Panel|200x200](https://bafybeiflnjcdsxepvpkvsmqk47ooe5kf7fbrw76rosahmapd3o6xvm7kjq.ipfs.infura-ipfs.io/)
+<img src="https://bafybeiflnjcdsxepvpkvsmqk47ooe5kf7fbrw76rosahmapd3o6xvm7kjq.ipfs.infura-ipfs.io/" width="100" height="100">
 
 ### Movement
 You maneuver in Voxels using your keyboard and mouse. Use arrow keys or WASD for the direction you want to travel. Pressing "F" key toggles "fly" mode where you defy the laws of gravity. It also allows you to swim to the surface if you fall into the water.  
