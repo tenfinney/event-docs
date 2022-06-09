@@ -24,9 +24,9 @@ This is done by signing an cryptographic message only you could sign. You can le
 ## Game Tip: 
 <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="600"> 
 
-This image <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="50">  links you back to the Web3Skills Hub where you will be able to fast travel to any location use in the quests and events. Use it often if you need to do back and start your quest again. <img src="https://github.com/tenfinney/event-docs/blob/main/citywalk-royal0-tr.png" width="100" height="100"> <img src="https://github.com/tenfinney/event-docs/blob/main/024.png" width="100" height="100"> Citywalk 24 is where all the quest games start. 
+This image <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" width="50">  links you back to the Web3Skills Hub where you will be able to fast travel to any location use in the quests and events. Use it often if you need to do back and start your quest again. <img src="https://github.com/tenfinney/event-docs/blob/main/citywalk-royal0-tr.png" height="50"> <img src="https://github.com/tenfinney/event-docs/blob/main/024.png" height="50"> Citywalk 24 is where all the quest games start. 
 
-You can find it on the directory <img src="https://github.com/tenfinney/event-docs/blob/main/Web3Skills-hub-directory.png" width="100" height="100"> in the [Web3Skills Hub]((https://www.voxels.com/play?coords=SE@263E,6S)) parcel.
+You can find it on the directory <img src="https://github.com/tenfinney/event-docs/blob/main/Web3Skills-hub-directory.png" width="300"> in the [Web3Skills Hub]((https://www.voxels.com/play?coords=SE@263E,6S)) parcel.
 
 
 ## Before you start.
@@ -482,9 +482,9 @@ Find the Self.id profile on the west wall.
 Who's profile is shown from the self.ID pages on the southern wall?  Fill in the blank. **"Tenfinney ( _________)"**
 
 ### Clues in Citywalk 27
-Go to Citywalk 27 from the Web3Skills Hub or by starting from Main Game Center (Citywalk 24) and traveling east into Junkyard. From the Whaleshark Gallery at CityWalk 27: 
+Go to Citywalk 27 from the Web3Skills Hub or by starting from Main Game Center (Citywalk 24) and traveling east into Junkyard. From the Whaleshark Gallery at Citywalk 27: 
 
-<img src="https://github.com/tenfinney/event-docs/blob/main/clues-Citywalk-27.png" width="100" height="100">
+<img src="https://github.com/tenfinney/event-docs/blob/main/clues-citywalk-27a.png" width="100" height="100">
 
 Look for two pieces of art.
 
