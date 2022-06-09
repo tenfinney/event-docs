@@ -564,6 +564,10 @@ Nothing will get a new user more comfortable using Web3 than prcessing a transac
 
 --------------------- 
 
+### Decoder through private key character 60
+
+<img src="https://github.com/tenfinney/event-docs/blob/main/2022-decoder-final-day.png" width="1000">
+
 ### 2022 Treasure Hunt and Games for MetaFest2 sponsored by MetaGame, Web3Skills and SmartLaw.
 
 These events are designed to show opportunities using the power or Web3 which includes private  interactions with public blockchains, token gated content, and private meeting spaces.  Some of the games and treasure hunts require reading and comprehension. The purpose is a comnbination of education and infotainment to help people better becoming acquanted and familiar with the new internet. 
