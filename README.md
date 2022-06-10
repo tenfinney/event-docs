@@ -100,9 +100,7 @@ Travel east for 10 blocks until you see Joy's parcel. Travel south for 6 blocks 
 You are now at the **Main Game Center** 
 Click the form on the right of the grassy entrance just behind the trees in the cover of the parcel.
 
-Enter your Web3 address and the answers to the first four questions.  If you are right you will recieve a players NFT that unlocks special quests.  The token is not required to play certain games but it will prevent non-holders to access places and content that may reveal additional rewards.
-
-After you enter the form information it's time to familiarize yourself with the Rules of the Games and the starting potions for each game, treasure hunt or informational tour.
+Enter your Web3 address to register. After you enter the form information it's time to familiarize yourself with the Rules of the Games and the starting potions for each game, treasure hunt or informational tour.
 
 Hint: (he moving glowing bars are linked to new locations on the tour and the static ones have no hyperlink so don't bother clicking them.  Sometimes you will need to change your angle to activate the hyperlink or press the "F5" key if you need to reload the page.  Hyperlinked images will have a larger cirlcle at the mouse cursor location to malke them easy to recognize. 
 
