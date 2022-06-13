@@ -100,7 +100,9 @@ Travel east for 10 blocks until you see Joy's parcel. Travel south for 6 blocks 
 You are now at the **Main Game Center** 
 Click the form on the right of the grassy entrance just behind the trees in the cover of the parcel.
 
-Enter your Web3 address to register. After you enter the form information it's time to familiarize yourself with the Rules of the Games and the starting potions for each game, treasure hunt or informational tour.
+Enter your Web3 address to register. **You don't have to fill out any of the clues yet. The first time you fill this out just leave that field blank**.  This step is only the registration and you will use this form again with new entry (at other locations) to fill in your final clues guess. 
+
+After you enter the form information it's time to familiarize yourself with the Rules of the Games and the starting potions for each game, treasure hunt or informational tour.
 
 Hint: (the moving glowing bars are linked to the next location on the tour. The static glowing bars (not moving) have no hyperlink, so don't bother clicking them.  Sometimes you will need to change your angle to activate the hyperlink or press the "F5" key if you need to reload the page.  Hyperlinked images will have a larger cirlcle at the mouse cursor location to malke them easy to recognize. 
 
