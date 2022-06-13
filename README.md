@@ -27,7 +27,7 @@ Over 300,000 square feet of space is used for Web3Skills to create events in the
 
 No username or password is required in Voxels. You can tour the metaverse world completely anonymously. If you would like to participate and play for prizes/rewards you will need a Web3 account connected to Voxels. There does not need to be any tokens or money in the account to play the standard games but the account will need to be connected to Voxels. 
 
-This is done by signing an cryptographic message only you could sign. You can learn more [here]((https://metamask.io/))  <img src="https://github.com/tenfinney/event-docs/blob/main/sign-in.png" width="200">
+This is done by signing a cryptographic message only you could sign. You can learn more [here]((https://metamask.io/))  <img src="https://github.com/tenfinney/event-docs/blob/main/sign-in.png" width="200">
 
 
 ## Game Tip: 
@@ -58,11 +58,11 @@ Pressing the "Shift" key and a direction key allows you to run or fly fast.  Kee
 #### Be patient. 
 Sometimes the page needs time to load. If you think your computer is working too slow, the browser may be trying to catch up to a lot of movements.  **You can reload the page with F5** and it may require you to reorient your avatar.  
 
- Voxels as a metaverse still in it's early days and nothing will operate perfectly. We hope you don't get too frustrated and everything operates as planned, but remember this is not a race but an experience. There are a lot of valuable clues that will lead to a richer experience and rewards if you pay close attention.
+Voxels is still in it's early days and nothing will operate perfectly. We hope you don't get too frustrated and everything operates as planned, but remember this is not a race but an experience. There are a lot of valuable clues that will lead to a richer experience and rewards if you pay close attention.
 #### Reload to [Voxels.com]((https://voxels.com)) else fails.
 
 ### Lettered and Numbered walls
-There Lettered Numbered walls are located through the event to help players orient themselves for convenience. The numbers and letters on the walls allow you to find the clues easily. Write your clues down in order as they appear and as they are called for in the clues section below. 
+The Lettered Numbered walls are located throughout the event to help players orient themselves for convenience. The numbers and letters on the walls allow palyers to find the clues easily. Write the clues down in order as they appear and as they are called for in the clues section below. 
 
 ### Swim if you fall in.
 If you fall in to the water and need to get out press the F key to fly in pointing the direction you want to travel with the arrow keys. If you find yourself trapped under the parcels, look up for a separation between the large squares. Those gaps represent the streets and you will be able to fly out of the uderwater/underground. It may take a few tries and if you get frustrated you can always start again at the origin at [https://voxels.com]((https://voxels.com)) and make you wayback to the [Hub]((https://www.cryptovoxels.com/play?coords=SE@261E,3S)) or look for one of these <img src="https://github.com/tenfinney/event-docs/blob/main/animate.gif" height="40"> to fast-travel to [Web3Skills Hub]((https://www.voxels.com/play?coords=SE@263E,6S)) 
@@ -81,7 +81,7 @@ There are two additional games for the Web3Skills event in MetaFest2. These two 
 The first people to correctly submit the **Treasure Hunt** answers from the clues and submit them in the proper order will win and automatically get access to the account's rewards. 
 The first person who decodes all the **Quest** clues and assembles the private key for a Web3 account will win and automatically get access to the account's rewards. 
 
-Even if someone is not the first person to successfully answer the clues additional prizes will be given to second and third places. All remaining correct answers will receive a **MetaFest2 commemorative digital token** that will allow for special access to gated content.
+Even if a participant is not the first person to successfully answer the clues, additional prizes will be given to second and third places. All remaining correct answers will receive a **MetaFest2 commemorative digital token** that will allow for special access to gated content.
 
 Thank you for participating in MetaFest2. 
 
@@ -102,7 +102,7 @@ Click the form on the right of the grassy entrance just behind the trees in the 
 
 Enter your Web3 address to register. After you enter the form information it's time to familiarize yourself with the Rules of the Games and the starting potions for each game, treasure hunt or informational tour.
 
-Hint: (he moving glowing bars are linked to new locations on the tour and the static ones have no hyperlink so don't bother clicking them.  Sometimes you will need to change your angle to activate the hyperlink or press the "F5" key if you need to reload the page.  Hyperlinked images will have a larger cirlcle at the mouse cursor location to malke them easy to recognize. 
+Hint: (the moving glowing bars are linked to the next location on the tour. The static glowing bars (not moving) have no hyperlink, so don't bother clicking them.  Sometimes you will need to change your angle to activate the hyperlink or press the "F5" key if you need to reload the page.  Hyperlinked images will have a larger cirlcle at the mouse cursor location to malke them easy to recognize. 
 
 --------------------
 
@@ -133,7 +133,7 @@ None of that really matters above. It's just for reference because you can take 
 ## Quest 1: 
 ### MetaGame Role Selection Quest 
 
-This will transort participants to the MetaGame role selection parcel. Start by reading the content on the walls and place special attention on the differnt guilds.  Once you have an idea about the guild and role you are interested in exploring select it from the wall.  You will be transported to the next quest location.
+This will transport participants to the MetaGame role selection parcel. Start by reading the content on the walls and place special attention on the differnt guilds.  Once you have an idea about the guild and role you are interested in exploring select it from the wall.  You will be transported to the next quest location.
 
 In this parcel, you will see a vending machine at the top of the fountain stairs. Go into the water and collect your first clue.   The vending machine is used for participants that would like to own the Web3Skills MetaFest2 Access Token. The token is not required to participate in the basic quests but is required for accessing the private gated parcels that may contain additional rewards and clues.
 
