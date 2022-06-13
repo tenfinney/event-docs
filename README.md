@@ -15,7 +15,7 @@ There are 8 Quest games and 2 Treasure Hunts with easy to solve clues!
 Each prize ranges from around $20 to $200 depending on the game played.   
 
 ## 300,000 square feet of displays
-Over 300,000 square feet of space is used for Web3Skills to create events in the Voxels metaverse for demonstrations and gated meeting spaces.
+Over 300,000 square feet of space is used for demonstrations and gated meeting spaces in Web3skills parcels in Voxels.
 
 
 ### Access Token for MetaFest2 
