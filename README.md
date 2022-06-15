@@ -8,6 +8,9 @@
 
 
 
+
+
+
 # Over $1000 USD in Prizes.
 Some in MATIC and some in wrapped Ether on the Polygon blockchain. 
 
