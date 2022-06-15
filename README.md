@@ -132,8 +132,15 @@ The magenta and red lanes are used for special quests.
 
 None of that really matters above. It's just for reference because you can take any lane you want, and even do every lane if you want to march through the games.
 
+
+
+
+
+
+=======================================
 ## Quest 1: 
 ### MetaGame Role Selection Quest 
+=======================================
 
 This will transport participants to the MetaGame role selection parcel. Start by reading the content on the walls and place special attention on the differnt guilds.  Once you have an idea about the guild and role you are interested in exploring select it from the wall.  You will be transported to the next quest location.
 
@@ -142,8 +149,14 @@ In this parcel, you will see a vending machine at the top of the fountain stairs
 In this parcel there are three large video screens on the east and south walls.  Watch all three videos carefully and then answer the questions. Write you answers down in the order they are asked and you will submit the answers at the end of the quest where you started the journey at Citywalk 24 in the Main Game Center parcel. 
 
 
+
+
+
+=======================================
 ## Quest 2: 
 ### Player's Journey Quest 
+=======================================
+
 
 Select the magenta "Click Here" button.  Select your colored lane. Each lane has it's own reward and participants are not competing against the other lanes but only all the participants running in the same colored lanes. 
 
@@ -160,8 +173,14 @@ This journey requires the participants to learn as they are collecting the clues
 All addional participants that complete the quest will receive a digital token that will grant access to Web3Skills content and a place on the Web3Skills team that onboards MetaGame players. Once the participants return to the Main Game Center at Citywalk 24 they must enter their clues into the Web3Skills Treasure Hunt 2022 form at the parcel entrance.  
 
 
+
+
+
+=======================================
 ## Quest 3:
 ### Utopia World Tour
+=======================================
+
 
 Select your colored lane. Each lane has it's own reward and participants are not competing agains the other lanes but only all the participants running in the same colored lanes. Continue through your colored lane picking up the clues/seed words until the tour is over and you are back at Main Game Center at Citywalk 24 where you will be facing another journey. Take your time and collect the clues/seed words that will be used to assemble a Web3 address. The rewards can be swept by the first player who successfully assembles the see phrase and unlocks the reward in the account.
 
@@ -200,7 +219,18 @@ Stay tuned for the missing clues on June 22nd to be the first to unlock the acco
 
 ---------------- 
 
+====================================================
 ## Additional Clue Games - Treasure Hunts 1 and 2
+====================================================
+
+
+
+
+
+==================
+# Treasure Hunt 1
+==================
+
 
 The first Treasure Hunt for MetaFest2 is connected to the players journey. Select a guild lane from the Roles Quest and navigate through the gates until you are at CityWalk 1.
 
@@ -403,6 +433,12 @@ Thank you for participating in manifest to sponsored by Web3Skills SmartLaw.
 ------------------
 
 
+
+
+==================
+# Treasure Hunt 2
+==================
+
 ### Clues Hunt for Treasure 2
 Access Token Required for all clues. You can solves for some of the clues but not all of them. Consider requesting an token during MEtaFest2 or focus on Treasure Hunt 1 above that does not require an Access Token.
  
@@ -581,6 +617,10 @@ Nothing will get a new user more comfortable using Web3 than prcessing a transac
 | 0xA17ac19e96350E712B838C5aA683Fe9b2D73764C |  |
 | 0xBA57Fe468b64B096BaaeC4f8097314382edC5419 |  |
 
+
+
+
+--------------- 
 
 ### 2022 Treasure Hunt and Games for MetaFest2 sponsored by MetaGame, Web3Skills and SmartLaw.
 
