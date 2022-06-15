@@ -11,6 +11,10 @@
 
 
 
+
+--------- 
+
+
 # Over $1000 USD in Prizes.
 Some in MATIC and some in wrapped Ether on the Polygon blockchain. 
 
@@ -443,7 +447,7 @@ Thank you for participating in manifest to sponsored by Web3Skills SmartLaw.
 ==================
 
 ### Clues Hunt for Treasure 2
-Access Token Required for all clues. You can solves for some of the clues but not all of them. Consider requesting an token during MEtaFest2 or focus on Treasure Hunt 1 above that does not require an Access Token.
+Access Token Required for all clues. You can solves for some of the clues but not all of them. Consider requesting an token during MetaFest2 or focus on Treasure Hunt 1 above that does not require an Access Token.
  
 #### Clue in Joy's Parcel
 
