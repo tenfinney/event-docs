@@ -490,7 +490,7 @@ Find the **calendar** on the southern wall.
 
 ##### Clue Question 5
 According to the calendar in Citywalk 42 what day are the Community Calls? Fill in the blank: 
-** The Champions call are scheduled on ____________ **
+** The Champions calls are scheduled on ____________ **
 
 #### Clues in Citywalk 42
 
@@ -633,7 +633,7 @@ Nothing will get a new user more comfortable using Web3 than prcessing a transac
 
 These events are designed to show opportunities using the power or Web3 which includes private  interactions with public blockchains, token gated content, and private meeting spaces.  Some of the games and treasure hunts require reading and comprehension. The purpose is a comnbination of education and infotainment to help people better becoming acquanted and familiar with the new internet. 
 
-The Voxels parcels used for these events can be tailored to paying customers who want a sizable presence in a metaverse without the overhead of purchasing their own metaverse parcels. This may be good for a temporary event, presentation, or for a long-term permanent interactive application. Parcel owners who provide architectural services and design services allows for everybody to get involved in the metaverse. Think of Voxels in general as a world of three dimensional websites all living together in a shared world. In dividual parcels that are managed can offer a rich expansive experience as a event center that hosts different shows throughout the year. INdividual parcels can be set up the same way and if they are close enbough together, they can be designed with a common theme.
+The Voxels parcels used for these events can be tailored to paying customers who want a sizable presence in a metaverse without the overhead of purchasing their own metaverse parcels. This may be good for a temporary event, presentation, or for a long-term permanent interactive application. Parcel owners who provide architectural services and design services allows for everybody to get involved in the metaverse. Think of Voxels in general as a world of three dimensional websites all living together in a shared world. In individual parcels that are managed can offer a rich expansive experience as a event center that hosts different shows throughout the year. Individual parcels can be set up the same way and if they are close enbough together, they can be designed with a common theme.
 
 Voxels parcels are also great for hosting after hour events were being physically together is impractical. After a long day at a convention you can meet up in a parcel where there are interactive activities that groups can gather, interact, play games and earn rewards.
 
