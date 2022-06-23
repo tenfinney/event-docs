@@ -645,3 +645,15 @@ The implication on using a metaverse in the workplace can have a posite impact o
 
 This goal with SmartLaw and Web3Skills working with MetaGame is to develop, host and implement practical tools for the new Internet.
 
+### Web3Skills presents Digitalax in Voxels
+
+#### let's play
+https://youtu.be/_oIX1tFthFc
+
+#### primer:
+https://youtu.be/n4XaMNJz0IY
+
+#### full walkthrough:
+https://youtu.be/CuFq5tFra60
+
+
