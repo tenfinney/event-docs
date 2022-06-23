@@ -489,7 +489,7 @@ Go to Citywalk 42 from the Web3Skills Hub or by starting from the MetaGame Roles
 Find the **calendar** on the southern wall.
 
 ##### Clue Question 5
-According to the calendar in Citywalk 42 what day are the Community Calls? Fill in the blank: 
+According to the calendar in Citywalk 42
 ** The Champions calls are scheduled on ____________ **
 
 #### Clues in Citywalk 42
