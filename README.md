@@ -391,11 +391,11 @@ Go to A62 and fill in the blank: **" How People Become ____________ "**
 
 ##### Clue Question 25
 
-Go to A77 and answer this: What is in the white space in the image at location A77. ___________
+Go to A77 and answer this: What is in the white space in the image at location A77. "A ___________"
 
 ##### Clue Question 26
 
-Go to A78 and answer this: How many payer panels are show on the images at location A78: ________
+Go to A78 and answer this: How many player profile panels are shown on the images at location A78: ________
 
 ##### Clue Question 27
 
@@ -408,7 +408,7 @@ What was the number for "Last Week"?: _________
 
 ##### Clue Question 29
 
-Go to A81 and answer this: What is the player namer who is leader in first place? ________________
+Go to A81 and answer this: What is the player name at the top of the list? ________________
 
 ##### Clue Question 30
 
@@ -513,8 +513,8 @@ You will need to watch the three videos in order to answer the questions.
 <img src="https://github.com/tenfinney/event-docs/blob/main/clues-videos.png" width="1000">
 
 ##### Clue Question 8
-In the first video what is the type of food truck is running along the track? 
-**"A ______  is on top of the truck is running on the tracks.""** 
+In the first video what is the type of food truck running along the track? 
+**"A ______ is on top of the truck running on the tracks.""** 
 
 ##### Clue Question 9.
 What is the very last word in the video.  Fill in the blank: 
