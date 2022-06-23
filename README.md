@@ -387,7 +387,7 @@ Go to A61 and fill in the blank: **"Pair up with another player and slay a _____
 
 ##### Clue Question 24
 
-Go to A62 and fill in the blank: **" __________ How People Become ____________ "**
+Go to A62 and fill in the blank: **" How People Become ____________ "**
 
 ##### Clue Question 25
 
