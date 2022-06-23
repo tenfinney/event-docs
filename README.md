@@ -649,11 +649,17 @@ This goal with SmartLaw and Web3Skills working with MetaGame is to develop, host
 
 #### let's play
 https://youtu.be/_oIX1tFthFc
+https://bafybeihr3fyer75tbtjvigahojf7g672qebctfhel7owvpguahcag6udaa.ipfs.infura-ipfs.io/
+
+
 
 #### primer:
 https://youtu.be/n4XaMNJz0IY
+https://bafybeiboqhuhsqvoazhxe5pxvhsnmdqkk2s3f52yz7amqo5m73mgq6s3xi.ipfs.infura-ipfs.io/
+
 
 #### full walkthrough:
 https://youtu.be/CuFq5tFra60
+https://bafybeigzv7opnfp2oe3knukqyx5xxpg72xt2m2mxuueqt2upkocxug4q3i.ipfs.infura-ipfs.io/
 
 
